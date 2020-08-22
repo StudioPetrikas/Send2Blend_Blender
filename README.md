@@ -1,4 +1,4 @@
-# "Send2Blend" Autodesk Fusion360 add-in
+# "Send2Blend" Blender 2.8+ Plug-In
 
 "Send2Blend" Autodesk Fusion360 add-in was creted to work in tandem with ["Send2Blend" Autodesk Fusion360 Add-In.](https://github.com/StudioPetrikas/Send2Blend_Fusion360)
 
