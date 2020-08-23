@@ -24,7 +24,7 @@ The code has been pieced together by a beginner coder. There will be coding mist
 3. Open Blender and navigate to Tools tab on the "N" panel in "3D Viewport"
 4. Click "Import / Update" top import your model into Blender. Alternatively, toggle "Run Live Update" to import models as they are exported from Fusion360.
 
-Full workflow (Including Fusion360) can be found in this Youtube Video
+Full workflow (Including Fusion360) can be found in [this Youtube Video.](https://www.youtube.com/watch?v=HfhuiakfqBQ)
 
 # How it Works
 1. Imports all and any .STL files in "S2B_Temp" folder on User/Desktop
